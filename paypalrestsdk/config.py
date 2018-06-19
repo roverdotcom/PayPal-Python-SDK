@@ -9,3 +9,4 @@ __endpoint_map__ = {
     # PayPal sandbox endpoint that will only support acceptable TLS version
     "security-test-sandbox": "https://test-api.sandbox.paypal.com/"
 }
+__default_timeout__ = 300
